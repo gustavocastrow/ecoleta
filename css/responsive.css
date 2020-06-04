@@ -18,6 +18,15 @@
   #page-home main {
     align-items: center;
   }
+
+  #page-search-results .cards {
+    grid-template-columns: 1fr;
+  }
+
+  #page-search-results .cards img {
+   width: 100%;
+   height: 70%;
+  }
 }
 
 @media (min-width: 1700px) {
