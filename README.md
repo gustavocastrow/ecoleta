@@ -1,4 +1,9 @@
-# ♻️ Ecoleta
+
+<h2 align="center">♻️ Ecoleta</h2>
+
+
+
+<p align="center"><img src="https://i.imgur.com/cAgZaPc.png"/></p>
 
 
 ## 💡 Sobre o projeto.
